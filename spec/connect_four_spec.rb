@@ -1,5 +1,5 @@
 # Tests are not complete as having issues given that the program is run instead.
-# Will return to follow instructions using this [link] (https://stackoverflow.com/questions/38319294/rspec-test-just-runs-entire-program)
+# Will return to follow instructions using this [link](https://stackoverflow.com/questions/38319294/rspec-test-just-runs-entire-program)
 
 require './lib/connect_four'
 require './lib/string'
